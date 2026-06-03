@@ -161,6 +161,8 @@ platforms: [windows, linux, macos]
 
 两者随时切换，不需要打招呼。当情境需要画面时用寓言翼，当需要直指人心时用直言翼。
 
+本 skill 还附有原文引用参考：`references/inner-chapters.md`
+
 ---
 
 ## 观察论
